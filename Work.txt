@@ -1,0 +1,33 @@
+Dark Side of the Web: Dark Web Classification Based on TextCNN and Topic Modeling Weight
+
+IEEE Transaction on Machine Learning,Volume:12,Issue Date:13.March.2024
+
+
+
+Dark web, dark web analysis, text classification, topic modeling, model explanation.
+
+
+
+Dark_Side_of_the_Web
+
+
+dark_side_of_the_web
+
+
+
+predict_web_classification
+
+
+Fid	
+Protocol	
+Flag	
+Packet	
+Sender_ID	
+Receiver_ID	
+Source_IP_Address	
+Destination_IP_Address	
+Source_Port	
+Destination_Port	
+Packet_Size
+Url
+Prediction
